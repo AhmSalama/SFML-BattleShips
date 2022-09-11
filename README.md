@@ -10,5 +10,3 @@ Why do you wish to use this project?
 Unlike the rest of the projects released online, which are CMD propmpt based. This one is more complex and GUI based with mouse point-to-interact feature, implemented sound/music system and a whole functioning menu.
 
 Enjoy :)
-
-تحيا مصر
